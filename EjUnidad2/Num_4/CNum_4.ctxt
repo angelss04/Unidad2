@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CNum_4
+comment0.text=\r\nENTRADA\r\nNumero\ a\ determinar\ si\ termina\ en\ 4\r\nSALIDA\r\nSi\ el\ numero\ termina\ en\ 4\ o\ no\r\n\r\nPROCESO\ \r\nSolicitar\ un\ n\u00FAmero\r\nLeer\ num\r\nSi\ num\ %\ 10\ \=\=\ 4\r\n\tN\u00FAmero\ si\ termina\ en\ 4\r\nSiNo\r\n\tNumero\ no\ termina\ en\ 4\r\n\r\nCASOS\ PRUEBA\r\n\t\tENTRADA\t\t\t\t\t\t\tSALIDA\r\n\t\t19032\t\t\t\t\t\tNo\ termmina\ en\ 4\r\n\t\t154\t\t\t\t\t\t\tSi\ termmina\ en\ 4\r\n\t\t109214\t\t\t\t\t\tSi\ termmina\ en\ 4\r\n\t\t18\t\t\t\t\t\t\tNo\ termmina\ en\ 4\r\n\t\t4\t\t\t\t\t\t\tSi\ termmina\ en\ 4\r\n\ @author\ (AYSR)\ \r\n\ @version\ (24/02/2026)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

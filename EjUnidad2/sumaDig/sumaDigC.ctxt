@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=sumaDigC
+comment0.text=\r\nLeer\ un\ n\u00FAmero\ entero\ de\ tres\ d\u00EDgitos\ y\ determinar\ a\ cu\u00E1nto\ es\ igual\ la\ suma\ de\ sus\ d\u00EDgitos.\r\nENTRADA\r\nn\u00FAmero\ entero\ de\ tres\ digitos\r\nSALIDA\r\nsuma\ de\ sus\ digitos\r\nPROCESO\ \r\nSolicitar\ un\ numero\ entero\ de\ tres\ digitos\r\nLeer\ num\r\n\ Si\ abs(num)\ >\=\ 100\ y\ abs(num)\ <\=\ 999\r\n\tprimerDigito\ \=\ trunc(abs(num)\ /\ 100)\r\n\tsegundoDigito\ \=\ trunc(abs(num)\ /\ 10)\ %\ 10\r\n\ttercerDigito\ \=\ abs(num)\ %10\ \r\n\tsuma\ \=\ primerDigito\ +\ segundoDigito\ +\ tercerDigito\r\n\t\ la\ suma\ de\ los\ digitos\ es,\ suma\r\nSiNo\r\n\tEl\ n\u00FAmero\ no\ es\ de\ tres\ digitos\r\nFinSi\r\n\r\n\t\t\t\tCASOS\ PRUEBA\r\n\t\ \ \ \ \ \ ENTRADA\t\t\t\t\t\ \ \ \ \ \ \ \ \ \ \ \ \ \ Salida\r\n\t\t123\t\t\t\t\t\t\t6\r\n\t\t5421\t\t\t\t\t\tno\ es\ de\ tres\ digitos\r\n\t\t12\t\t\t\t\t\tno\ es\ de\ tres\ digitos\t\r\n\t\t542\t\t\t\t\t\t\t11\r\n\t\t392\t\t\t\t\t\t\t14\r\n\ @author\ (AYSR)\ \r\n\ @version\ (25/02/2026)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

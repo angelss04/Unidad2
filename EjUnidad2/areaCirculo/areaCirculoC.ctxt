@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=areaCirculoC
+comment0.text=\r\nSe\ requiere\ determinar\ el\ \u00E1rea\ de\ un\ c\u00EDrculo,\ a\ partir\ de\ su\ radio\r\n\r\nENTRADA\r\nradio\ del\ circulo.\ \r\nSALIDA\r\narea\ del\ circulo\r\nPROCESO\ \r\nSolicitar\ el\ radio\ del\ circulo\r\nLeer\ radio\r\narea\ \=\ pi\ *\ radio^2\r\nresultado\ \=\ Redon(area\ *\ 100)\ /\ 100\r\nEscribir\ "La\ \u00E1rea\ del\ circulo\ es\:\ ",\ resultado\r\n\r\n\t\t\t\t\tCASOS\ PRUEBA\r\n\t\t\ \ \ \ ENTRADA\t\t\t\t\t\t\t\ \ \ \ \ \ \ \ SALIDA\r\n\t\t\t5\t\t\t\t\t\t\t\t78.54\t\r\n\t\t\t3\t\t\t\t\t\t\t\t28.27\r\n\t\t\t6\t\t\t\t\t\t\t\t113.1\r\n\t\t\t2\t\t\t\t\t\t\t\t12.57\r\n\t\t\t4\t\t\t\t\t\t\t\t50.27\r\n\ @author\ (AYSR)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

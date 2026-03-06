@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=digIgualesC
+comment0.text=\r\nLeer\ un\ n\u00FAmero\ entero\ de\ dos\ d\u00EDgitos\ y\ determinar\ si\ los\ dos\ d\u00EDgitos\ son\ iguales.\r\n\r\nENTRADA\r\nn\u00FAmero\ de\ dos\ digitos\r\nSALIDA\r\nsi\ los\ digitos\ son\ iguales\ o\ no\r\nPROCESO\ \r\nSolicitar\ un\ n\u00FAmero\ de\ dos\ digitos\r\nLeer\ num\r\nSi\ abs(num)\ >\=\ 10\ y\ abs(num)\ <\=\ 99\r\nprimerDigito\ \=\ num\ /\ 10\r\nsegundoDigito\ \=\ num\ %\ 10\r\n\tSi\ primerDigito\ \=\ segundoDigito\r\n\tlos\ dos\ digitos\ son\ iguales\r\n\tSiNo\ \r\n\tlos\ digitos\ no\ son\ iguales\r\n\tFinSi\r\nSiNo\r\nEl\ numero\ no\ es\ de\ 2\ digitos\r\nFinSi\r\n\r\n\t\t\t\tCASOS\ PRUEBA\r\n\t\ \ ENTRADA\t\t\t\t\tSALIDA\r\n\t\t33\t\t\t\t\t\t\ \ los\ digitos\ son\ iguales\r\n\t\t23\t\t\t\t\t\t\ \ los\ digitos\ no\ son\ iguales\r\n\t\t881\t\t\t\t\t\t\ \ el\ numero\ no\ es\ de\ 2\ digitos\r\n\t\t-11\t\t\t\t\t\t\ \ los\ digitos\ son\ iguales\r\n\t\t-52\t\t\t\t\t\t\ \ los\ digitos\ no\ son\ iguales\r\n\ @author\ (AYSR)\ \r\n\ @version\ (24/02/2026)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
